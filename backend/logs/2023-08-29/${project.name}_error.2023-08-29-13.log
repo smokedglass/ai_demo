@@ -1,0 +1,5 @@
+[${project.name}][${env:SERVER_PORT}] 2023-08-29 13:17:01,053 ERROR [http-nio-8080-exec-2][SqlExceptionHelper.java:142] - Unknown error 1146
+[${project.name}][${env:SERVER_PORT}] 2023-08-29 13:17:06,700 ERROR [http-nio-8080-exec-3][SqlExceptionHelper.java:142] - Unknown error 1146
+[${project.name}][${env:SERVER_PORT}] 2023-08-29 13:18:09,387 ERROR [http-nio-8080-exec-4][SqlExceptionHelper.java:142] - Unknown error 1146
+[${project.name}][${env:SERVER_PORT}] 2023-08-29 13:20:53,897 ERROR [http-nio-8080-exec-1][SqlExceptionHelper.java:142] - Unknown error 1146
+[${project.name}][${env:SERVER_PORT}] 2023-08-29 13:30:38,583 ERROR [http-nio-8080-exec-3][SqlExceptionHelper.java:142] - Unknown error 1146

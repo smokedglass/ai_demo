@@ -1,0 +1,98 @@
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:00:22,381 INFO [main][StartupInfoLogger.java:55] - Starting BatchApplication on LAPTOP-E8A9G982 with PID 23564 (D:\Projects\backend3\backend\target\classes started by 18813 in D:\Projects\backend3\backend)
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:00:22,421 INFO [main][SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:00:22,931 INFO [main][RepositoryConfigurationDelegate.java:127] - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:00:22,988 INFO [main][RepositoryConfigurationDelegate.java:187] - Finished Spring Data repository scanning in 51ms. Found 4 JPA repository interfaces.
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:00:23,339 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port(s): 8080 (http)
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:00:23,346 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-8080"]
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:00:23,346 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:00:23,347 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:00:23,460 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:00:23,460 INFO [main][ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 1005 ms
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:00:23,499 INFO [main][DruidDataSourceAutoConfigure.java:56] - Init DruidDataSource
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:00:23,589 INFO [main][DruidDataSource.java:1002] - {dataSource-1} inited
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:00:24,426 INFO [main][LogHelper.java:31] - HHH000204: Processing PersistenceUnitInfo [name: default]
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:00:24,459 INFO [main][Version.java:44] - HHH000412: Hibernate ORM core version 5.4.25.Final
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:00:24,544 INFO [main][JavaReflectionManager.java:56] - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:00:24,623 INFO [main][Dialect.java:175] - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:00:24,985 INFO [main][JtaPlatformInitiator.java:52] - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:00:24,991 INFO [main][AbstractEntityManagerFactoryBean.java:419] - Initialized JPA EntityManagerFactory for persistence unit 'default'
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:00:25,506 WARN [main][JpaBaseConfiguration.java:220] - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:00:25,581 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'applicationTaskExecutor'
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:00:25,729 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-8080"]
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:00:25,745 INFO [main][TomcatWebServer.java:220] - Tomcat started on port(s): 8080 (http) with context path ''
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:00:25,753 INFO [main][StartupInfoLogger.java:61] - Started BatchApplication in 3.634 seconds (JVM running for 4.84)
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:00:30,183 INFO [http-nio-8080-exec-4][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:00:30,183 INFO [http-nio-8080-exec-4][FrameworkServlet.java:525] - Initializing Servlet 'dispatcherServlet'
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:00:30,188 INFO [http-nio-8080-exec-4][FrameworkServlet.java:547] - Completed initialization in 5 ms
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:11:57,596 INFO [main][StartupInfoLogger.java:55] - Starting BatchApplication on LAPTOP-E8A9G982 with PID 14144 (D:\Projects\backend3\backend\target\classes started by 18813 in D:\Projects\backend3\backend)
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:11:57,612 INFO [main][SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:11:58,053 INFO [main][RepositoryConfigurationDelegate.java:127] - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:11:58,114 INFO [main][RepositoryConfigurationDelegate.java:187] - Finished Spring Data repository scanning in 54ms. Found 4 JPA repository interfaces.
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:11:58,460 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port(s): 8080 (http)
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:11:58,467 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-8080"]
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:11:58,467 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:11:58,467 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:11:58,588 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:11:58,588 INFO [main][ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 924 ms
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:11:58,626 INFO [main][DruidDataSourceAutoConfigure.java:56] - Init DruidDataSource
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:11:58,713 INFO [main][DruidDataSource.java:1002] - {dataSource-1} inited
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:11:59,305 INFO [main][LogHelper.java:31] - HHH000204: Processing PersistenceUnitInfo [name: default]
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:11:59,341 INFO [main][Version.java:44] - HHH000412: Hibernate ORM core version 5.4.25.Final
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:11:59,433 INFO [main][JavaReflectionManager.java:56] - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:11:59,513 INFO [main][Dialect.java:175] - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:11:59,882 INFO [main][JtaPlatformInitiator.java:52] - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:11:59,889 INFO [main][AbstractEntityManagerFactoryBean.java:419] - Initialized JPA EntityManagerFactory for persistence unit 'default'
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:12:00,450 WARN [main][JpaBaseConfiguration.java:220] - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:12:00,526 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'applicationTaskExecutor'
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:12:00,675 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-8080"]
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:12:00,692 INFO [main][TomcatWebServer.java:220] - Tomcat started on port(s): 8080 (http) with context path ''
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:12:00,699 INFO [main][StartupInfoLogger.java:61] - Started BatchApplication in 3.384 seconds (JVM running for 4.647)
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:12:08,729 INFO [http-nio-8080-exec-1][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:12:08,730 INFO [http-nio-8080-exec-1][FrameworkServlet.java:525] - Initializing Servlet 'dispatcherServlet'
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:12:08,735 INFO [http-nio-8080-exec-1][FrameworkServlet.java:547] - Completed initialization in 5 ms
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:20:50,366 INFO [main][StartupInfoLogger.java:55] - Starting BatchApplication on LAPTOP-E8A9G982 with PID 5136 (D:\Projects\backend3\backend\target\classes started by 18813 in D:\Projects\backend3\backend)
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:20:50,375 INFO [main][SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:20:50,822 INFO [main][RepositoryConfigurationDelegate.java:127] - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:20:50,882 INFO [main][RepositoryConfigurationDelegate.java:187] - Finished Spring Data repository scanning in 53ms. Found 4 JPA repository interfaces.
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:20:51,276 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port(s): 8080 (http)
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:20:51,283 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-8080"]
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:20:51,283 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:20:51,283 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:20:51,455 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:20:51,456 INFO [main][ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 1028 ms
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:20:51,495 INFO [main][DruidDataSourceAutoConfigure.java:56] - Init DruidDataSource
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:20:51,584 INFO [main][DruidDataSource.java:1002] - {dataSource-1} inited
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:20:52,419 INFO [main][LogHelper.java:31] - HHH000204: Processing PersistenceUnitInfo [name: default]
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:20:52,450 INFO [main][Version.java:44] - HHH000412: Hibernate ORM core version 5.4.25.Final
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:20:52,534 INFO [main][JavaReflectionManager.java:56] - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:20:52,614 INFO [main][Dialect.java:175] - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:20:52,980 INFO [main][JtaPlatformInitiator.java:52] - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:20:52,986 INFO [main][AbstractEntityManagerFactoryBean.java:419] - Initialized JPA EntityManagerFactory for persistence unit 'default'
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:20:53,546 WARN [main][JpaBaseConfiguration.java:220] - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:20:53,622 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'applicationTaskExecutor'
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:20:53,769 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-8080"]
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:20:53,798 INFO [main][TomcatWebServer.java:220] - Tomcat started on port(s): 8080 (http) with context path ''
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:20:53,805 INFO [main][StartupInfoLogger.java:61] - Started BatchApplication in 3.729 seconds (JVM running for 4.933)
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:23:04,578 INFO [main][StartupInfoLogger.java:55] - Starting BatchApplication on LAPTOP-E8A9G982 with PID 22740 (D:\Projects\backend3\backend\target\classes started by 18813 in D:\Projects\backend3\backend)
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:23:04,594 INFO [main][SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:23:05,039 INFO [main][RepositoryConfigurationDelegate.java:127] - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:23:05,098 INFO [main][RepositoryConfigurationDelegate.java:187] - Finished Spring Data repository scanning in 53ms. Found 4 JPA repository interfaces.
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:23:05,440 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port(s): 8080 (http)
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:23:05,447 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-8080"]
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:23:05,447 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:23:05,447 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:23:05,559 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:23:05,559 INFO [main][ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 911 ms
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:23:05,597 INFO [main][DruidDataSourceAutoConfigure.java:56] - Init DruidDataSource
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:23:05,686 INFO [main][DruidDataSource.java:1002] - {dataSource-1} inited
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:23:06,508 INFO [main][LogHelper.java:31] - HHH000204: Processing PersistenceUnitInfo [name: default]
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:23:06,540 INFO [main][Version.java:44] - HHH000412: Hibernate ORM core version 5.4.25.Final
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:23:06,625 INFO [main][JavaReflectionManager.java:56] - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:23:06,703 INFO [main][Dialect.java:175] - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:23:07,065 INFO [main][JtaPlatformInitiator.java:52] - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:23:07,072 INFO [main][AbstractEntityManagerFactoryBean.java:419] - Initialized JPA EntityManagerFactory for persistence unit 'default'
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:23:07,582 WARN [main][JpaBaseConfiguration.java:220] - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:23:07,659 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'applicationTaskExecutor'
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:23:07,804 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-8080"]
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:23:07,833 INFO [main][TomcatWebServer.java:220] - Tomcat started on port(s): 8080 (http) with context path ''
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 16:23:07,840 INFO [main][StartupInfoLogger.java:61] - Started BatchApplication in 3.528 seconds (JVM running for 4.713)

@@ -1,0 +1,5 @@
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 19:43:49,824 ERROR [http-nio-8080-exec-4][SqlExceptionHelper.java:142] - Unknown error 1054
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 19:49:44,137 ERROR [http-nio-8080-exec-8][SqlExceptionHelper.java:142] - Unknown error 1054
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 19:50:34,143 ERROR [http-nio-8080-exec-2][SqlExceptionHelper.java:142] - Unknown error 1054
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 19:53:32,588 ERROR [http-nio-8080-exec-1][SqlExceptionHelper.java:142] - Unknown error 1054
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 19:57:41,424 ERROR [http-nio-8080-exec-1][SqlExceptionHelper.java:142] - Unknown error 1054

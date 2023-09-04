@@ -1,0 +1,40 @@
+[${project.name}][${env:SERVER_PORT}] 2023-08-28 13:32:22,877 INFO [main][StartupInfoLogger.java:55] - Starting BatchApplication on LAPTOP-P2F4UP91 with PID 23912 (E:\JavaProject\work\batch\target\classes started by Zbr in E:\JavaProject\work\batch)
+[${project.name}][${env:SERVER_PORT}] 2023-08-28 13:32:22,889 INFO [main][SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+[${project.name}][${env:SERVER_PORT}] 2023-08-28 13:32:23,850 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port(s): 8080 (http)
+[${project.name}][${env:SERVER_PORT}] 2023-08-28 13:32:23,858 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-8080"]
+[${project.name}][${env:SERVER_PORT}] 2023-08-28 13:32:23,860 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+[${project.name}][${env:SERVER_PORT}] 2023-08-28 13:32:23,860 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+[${project.name}][${env:SERVER_PORT}] 2023-08-28 13:32:23,930 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+[${project.name}][${env:SERVER_PORT}] 2023-08-28 13:32:23,930 INFO [main][ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 1001 ms
+[${project.name}][${env:SERVER_PORT}] 2023-08-28 13:32:24,493 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'applicationTaskExecutor'
+[${project.name}][${env:SERVER_PORT}] 2023-08-28 13:32:24,633 INFO [main][DruidDataSourceAutoConfigure.java:56] - Init DruidDataSource
+[${project.name}][${env:SERVER_PORT}] 2023-08-28 13:32:24,808 INFO [main][DruidDataSource.java:1002] - {dataSource-1} inited
+[${project.name}][${env:SERVER_PORT}] 2023-08-28 13:32:24,880 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-8080"]
+[${project.name}][${env:SERVER_PORT}] 2023-08-28 13:32:24,901 INFO [main][TomcatWebServer.java:220] - Tomcat started on port(s): 8080 (http) with context path ''
+[${project.name}][${env:SERVER_PORT}] 2023-08-28 13:32:24,910 INFO [main][StartupInfoLogger.java:61] - Started BatchApplication in 2.478 seconds (JVM running for 4.57)
+[${project.name}][${env:SERVER_PORT}] 2023-08-28 13:33:09,796 INFO [http-nio-8080-exec-2][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[${project.name}][${env:SERVER_PORT}] 2023-08-28 13:33:09,796 INFO [http-nio-8080-exec-2][FrameworkServlet.java:525] - Initializing Servlet 'dispatcherServlet'
+[${project.name}][${env:SERVER_PORT}] 2023-08-28 13:33:09,805 INFO [http-nio-8080-exec-2][FrameworkServlet.java:547] - Completed initialization in 9 ms
+[${project.name}][${env:SERVER_PORT}] 2023-08-28 13:37:43,681 INFO [SpringContextShutdownHook][DruidDataSource.java:1885] - {dataSource-1} closing ...
+[${project.name}][${env:SERVER_PORT}] 2023-08-28 13:37:43,682 INFO [SpringContextShutdownHook][DruidDataSource.java:1955] - {dataSource-1} closed
+[${project.name}][${env:SERVER_PORT}] 2023-08-28 13:37:43,683 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+[${project.name}][${env:SERVER_PORT}] 2023-08-28 13:37:49,111 INFO [main][StartupInfoLogger.java:55] - Starting BatchApplication on LAPTOP-P2F4UP91 with PID 22904 (E:\JavaProject\work\batch\target\classes started by Zbr in E:\JavaProject\work\batch)
+[${project.name}][${env:SERVER_PORT}] 2023-08-28 13:37:49,123 INFO [main][SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+[${project.name}][${env:SERVER_PORT}] 2023-08-28 13:37:49,970 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port(s): 8080 (http)
+[${project.name}][${env:SERVER_PORT}] 2023-08-28 13:37:49,981 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-8080"]
+[${project.name}][${env:SERVER_PORT}] 2023-08-28 13:37:49,982 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+[${project.name}][${env:SERVER_PORT}] 2023-08-28 13:37:49,982 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+[${project.name}][${env:SERVER_PORT}] 2023-08-28 13:37:50,050 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+[${project.name}][${env:SERVER_PORT}] 2023-08-28 13:37:50,050 INFO [main][ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 880 ms
+[${project.name}][${env:SERVER_PORT}] 2023-08-28 13:37:50,894 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'applicationTaskExecutor'
+[${project.name}][${env:SERVER_PORT}] 2023-08-28 13:37:51,005 INFO [main][DruidDataSourceAutoConfigure.java:56] - Init DruidDataSource
+[${project.name}][${env:SERVER_PORT}] 2023-08-28 13:37:51,170 INFO [main][DruidDataSource.java:1002] - {dataSource-1} inited
+[${project.name}][${env:SERVER_PORT}] 2023-08-28 13:37:51,276 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-8080"]
+[${project.name}][${env:SERVER_PORT}] 2023-08-28 13:37:51,304 INFO [main][TomcatWebServer.java:220] - Tomcat started on port(s): 8080 (http) with context path ''
+[${project.name}][${env:SERVER_PORT}] 2023-08-28 13:37:51,325 INFO [main][StartupInfoLogger.java:61] - Started BatchApplication in 2.604 seconds (JVM running for 4.372)
+[${project.name}][${env:SERVER_PORT}] 2023-08-28 13:37:54,603 INFO [http-nio-8080-exec-1][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[${project.name}][${env:SERVER_PORT}] 2023-08-28 13:37:54,603 INFO [http-nio-8080-exec-1][FrameworkServlet.java:525] - Initializing Servlet 'dispatcherServlet'
+[${project.name}][${env:SERVER_PORT}] 2023-08-28 13:37:54,610 INFO [http-nio-8080-exec-1][FrameworkServlet.java:547] - Completed initialization in 6 ms
+[${project.name}][${env:SERVER_PORT}] 2023-08-28 13:48:01,753 INFO [SpringContextShutdownHook][DruidDataSource.java:1885] - {dataSource-1} closing ...
+[${project.name}][${env:SERVER_PORT}] 2023-08-28 13:48:01,754 INFO [SpringContextShutdownHook][DruidDataSource.java:1955] - {dataSource-1} closed
+[${project.name}][${env:SERVER_PORT}] 2023-08-28 13:48:01,754 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'applicationTaskExecutor'

@@ -1,0 +1,3 @@
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 17:23:55,290 INFO [http-nio-8080-exec-2][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 17:23:55,290 INFO [http-nio-8080-exec-2][FrameworkServlet.java:525] - Initializing Servlet 'dispatcherServlet'
+[${project.name}][${env:SERVER_PORT}] 2023-08-30 17:23:55,296 INFO [http-nio-8080-exec-2][FrameworkServlet.java:547] - Completed initialization in 5 ms
