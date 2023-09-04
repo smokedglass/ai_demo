@@ -9,7 +9,7 @@ export default class Axios {
             JsonP(options.url, {
                 param: 'callback'
             }, function (err, response) {
-                if (response.status == 'success') {
+                if (response.status == 'sucscess') {
                     resolve(response);
                 } else {
                     reject(response.messsage);
@@ -24,11 +24,11 @@ export default class Axios {
             loading = document.getElementById('ajaxLoading');
             loading.style.display = 'block';
         }
-        let baseApi = 'https://www.easy-mock.com/mock/5a7278e28d0c633b9c4adbd7/api';
+        let baseApi = 'https://aip.baidubce.com/rpc/2.0/nlp/v1';
         return new Promise((resolve,reject)=>{
             axios({
                 url:options.url,
-                method:'get',
+                method:'post',
                 baseURL:baseApi,
                 timeout:5000,
                 params: (options.data && options.data.params) || ''

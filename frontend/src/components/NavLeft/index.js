@@ -129,7 +129,7 @@ class NavLeft extends React.Component {
                         <h1>文件批量处理系统</h1>
                     </div>
                 </NavLink>
-                {/* <Menu
+                <Menu
                     defaultSelectedKeys={['file-text']}
                     mode="inline"
                     theme="dark"
@@ -143,7 +143,7 @@ class NavLeft extends React.Component {
                             日志查询
                     </Menu.Item>
 
-                </Menu> */}
+                </Menu>
             </div>
         );
     }
